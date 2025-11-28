@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.2
+requests==2.31.0
+pandas==2.0.3
+gspread==6.2.1
+sqlalchemy==2.0.44
+psycopg2-binary==2.9.11
+pytest==7.4.0
+pytest-cov==7.0.0

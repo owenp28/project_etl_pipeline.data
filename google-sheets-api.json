@@ -1,0 +1,10 @@
+{
+  "type": "service_account",
+  "project_id": "mock-project",
+  "private_key_id": "mock-key-id",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7VJTUt9Us8cKB\nxIuOAiNQM4+0DpYlo+NiiVZaY/IcaXiHlb8BLnjYFdxNeHrwxHBHyxyawdBx\n-----END PRIVATE KEY-----\n",
+  "client_email": "mock-service@mock-project.iam.gserviceaccount.com",
+  "client_id": "123456789",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token"
+}
